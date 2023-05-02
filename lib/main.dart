@@ -21,7 +21,7 @@ class _MyCarState extends State<MyCar> {
         appBar: AppBar(
           title: const Text("Remote Car"),
           centerTitle: true,
-          backgroundColor: Color.fromARGB(220, 60, 171, 207),
+          backgroundColor: const Color.fromARGB(220, 60, 171, 207),
         ),
         body: Center(
           child: Column(
